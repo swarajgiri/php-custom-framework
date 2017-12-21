@@ -1,0 +1,4 @@
+phpdoc-*
+composer.phar
+vendor
+logs
